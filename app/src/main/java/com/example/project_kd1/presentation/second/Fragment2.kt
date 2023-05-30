@@ -6,10 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import androidx.navigation.fragment.findNavController
-import com.example.project_kd1.R
 import com.example.project_kd1.databinding.Fragment2Binding
-import com.example.project_kd1.presentation.first.ViewModel1
+
 
 
 class Fragment2 : Fragment() {
